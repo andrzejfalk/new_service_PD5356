@@ -1,0 +1,5 @@
+Potencjalne ryzyka:
+1. Brak dostępu do stabilnego łącza internetowego przez część pacjentów.
+2. Ograniczona możliwość przeprowadzenia pełnego badania fizycznego na odległość.
+3. Potencjalne problemy z zapewnieniem bezpieczeństwa danych pacjentów.
+4. Trudności organizacyjne związane z umawianiem konsultacji online.
