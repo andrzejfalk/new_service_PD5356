@@ -1,0 +1,5 @@
+Nazwa usługi: Telekonsultacje nefrologiczno-internistyczne
+
+Opis: Usługa umożliwia pacjentom uzyskanie porady medycznej bez konieczności fizycznej wizyty w gabinecie lekarskim. Pacjenci mogą kontaktować się z lekarzem za pośrednictwem wideokonsultacji lub telefonu.
+
+Cele: Poprawa dostępności do opieki medycznej, skrócenie czasu oczekiwania na konsultację oraz ułatwienie kontroli pacjentów przewlekle chorych.
